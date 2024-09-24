@@ -18,7 +18,7 @@ import fitz  # PyMuPDF
 
 # Open the PDF file
 
-pdf_document = "ecg-20240730-101924.pdf"
+pdf_document = "test_ecg.pdf"
 if len(sys.argv) > 1:
    pdf_document = sys.argv[1]
    
@@ -278,7 +278,7 @@ for sprint in range(4):
    for row in FUVaxes:
        img[:, row] = 255
    
-   if sprint == 4:
+   if sprint == 4: #debug statement
       plt.imshow(img,cmap="gray")
       plt.show()
       exit()
