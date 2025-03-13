@@ -11,4 +11,4 @@ If this helped you consider donating
 
 BTC: bc1qvd9qdamdfkcc80madclqhd0x4p4g53wwy4gjj5
 
-https://ko-fi.com/beanyzoldyck
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T21BV8CC)
