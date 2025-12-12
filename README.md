@@ -5,14 +5,3 @@ Original digitization repository:
 https://github.com/ritikajha/ECG-Digitization/tree/main
 
 This is my first public repo that I intend for others to use, let me know of any sociable adjustments I can make.
-
-# Donation
-If this helped you consider donating
-
-BTC: bc1qvd9qdamdfkcc80madclqhd0x4p4g53wwy4gjj5
-
-SOL: 2R2wd8NrLzVDQEiE7Dbdw1VHzHrSsyDrkF6UBDVRgJYG
-
-ETH: 0xBF18f6833EaC52cfE7A25986fe0927ee535A3bd1
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T21BV8CC)
